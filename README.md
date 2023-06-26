@@ -1,3 +1,3 @@
-I’m @dstote and am currently working on setting up a repository for ansible, jenkins and powershell. 
+I’m @dstote and am currently working on ansible, bash, github actions and powershell type tings.
 
-These will be located in the OneTeam-IT Org.
+These will be located in the OneTeam-IT and fmcrr org.
